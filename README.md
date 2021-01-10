@@ -1,5 +1,7 @@
 # watch-list-api
 
+To set up DB
+
 Download MySqlServer and MySqlDashboard (https://dev.mysql.com/downloads/)
 
 Open MySqlDashboard.
